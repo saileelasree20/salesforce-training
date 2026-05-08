@@ -80,7 +80,7 @@ When the process is completed successfully, the person becomes a Customer.
 ![Salesforce Values](salesforce.png)
 
 ### Salesforce Developer
-![Salesforce Developer](salesforcedeveloper.png)
+![Salesforce Developer](salesforce-developer.png)
 
 ### Data Model Basics
 ![Data Model Basics](data-model-basics-completed.png)
